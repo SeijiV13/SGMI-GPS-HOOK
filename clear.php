@@ -1,3 +1,3 @@
 <?php
-file_put_contents("result.txt", "");
+   file_put_contents("pandg-results.txt", "");
 ?>
